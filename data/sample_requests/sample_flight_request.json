@@ -1,0 +1,9 @@
+{
+  "manufacturer": "DJI",
+  "model": "Mini 3",
+  "origin": "Michael and Karen O'Connor Building, Texas A&M University-Corpus Christi, Corpus Christi, TX",
+  "destination": "Carlos Truan National Resource Center, Texas A&M University-Corpus Christi, Corpus Christi, TX",
+  "battery_percentage": 78,
+  "intended_flight_time": "2026-06-24T14:30:00",
+  "mission_purpose": "infrastructure inspection"
+}

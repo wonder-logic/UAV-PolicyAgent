@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "DJI",
+    "model": "Mini 3",
+    "weight_grams": 249,
+    "max_flight_time_minutes": 38,
+    "max_range_meters": 18000,
+    "max_speed_mps": 16,
+    "source": "OpenDroneList sample"
+  },
+  {
+    "manufacturer": "DJI",
+    "model": "Mavic 3",
+    "weight_grams": 895,
+    "max_flight_time_minutes": 46,
+    "max_range_meters": 30000,
+    "max_speed_mps": 21,
+    "source": "OpenDroneList sample"
+  },
+  {
+    "manufacturer": "Autel Robotics",
+    "model": "EVO II Pro",
+    "weight_grams": 1191,
+    "max_flight_time_minutes": 40,
+    "max_range_meters": 15000,
+    "max_speed_mps": 20,
+    "source": "OpenDroneList sample"
+  },
+  {
+    "manufacturer": "Parrot",
+    "model": "Anafi USA",
+    "weight_grams": 500,
+    "max_flight_time_minutes": 32,
+    "max_range_meters": 4000,
+    "max_speed_mps": 15,
+    "source": "OpenDroneList sample"
+  }
+]
