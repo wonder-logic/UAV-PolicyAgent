@@ -1,0 +1,857 @@
+[
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:1:0",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 1,
+    "chunk_index": 0,
+    "text": "Title 14 \u2014Aeronautics and Space Chapter I \u2014Federal Aviation Administration, Department of Transportation Subchapter F \u2014Air Traffic and General Operating Rules This content is from the eCFR and is authoritative but unofficial. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR Part 107 (Dec. 30, 2024) 14 CFR Part 107 (Dec. 30, 2024) (enhanced display) page 1 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:2:1",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "Part 107 Small Unmanned Aircraft Systems",
+    "page": 2,
+    "chunk_index": 1,
+    "text": "Part 107 Small Unmanned Aircraft Systems Subpart A General \u00a7 107.1 Applicability. \u00a7 107.2 Applicability of certification procedures for products and articles. \u00a7 107.3 Definitions. \u00a7 107.5 Falsification, reproduction, or alteration. \u00a7 107.7 Inspection, testing, and demonstration of compliance. \u00a7 107.9 Safety event reporting. Subpart B Operating Rules \u00a7 107.11 Applicability. \u00a7 107.12 Requirement for a remote pilot certificate with a small UAS rating. \u00a7 107.13 Registration. \u00a7 107.15 Condition for safe operation. \u00a7 107.17 Medical condition. \u00a7 107.19 Remote pilot in command. \u00a7 107.21 In-flight emergency. \u00a7 107.23 Hazardous operation. \u00a7 107.25 Operation from a moving vehicle or aircraft. \u00a7 107.27 Alcohol or drugs. \u00a7 107.29 Operation at night. \u00a7 107.31 Visual line of sight aircraft operation. \u00a7 107.33 Visual observer. \u00a7 107.35 Operation of multiple small unmanned aircraft. \u00a7 107.36 Carriage of"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:2:2",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "Part 107 Small Unmanned Aircraft Systems",
+    "page": 2,
+    "chunk_index": 2,
+    "text": "craft operation. \u00a7 107.33 Visual observer. \u00a7 107.35 Operation of multiple small unmanned aircraft. \u00a7 107.36 Carriage of hazardous material. \u00a7 107.37 Operation near aircraft; right-of-way rules. \u00a7 107.39 Operation over human beings. \u00a7 107.41 Operation in certain airspace. \u00a7 107.43 Operation in the vicinity of airports. \u00a7 107.45 Operation in prohibited or restricted areas. \u00a7 107.47 Flight restrictions in the proximity of certain areas designated by notice to airmen. \u00a7 107.49 Preflight familiarization, inspection, and actions for aircraft operation. \u00a7 107.51 Operating limitations for small unmanned aircraft. Subpart C Remote Pilot Certification \u00a7 107.52 ATC transponder equipment prohibition. \u00a7 107.53 Automatic Dependent Surveillance-Broadcast (ADS-B) Out prohibition. \u00a7 107.56 Applicability. \u00a7 107.57 Offenses involving alcohol or drugs. \u00a7 107.59 Refusal to submit to an alcohol test or to fur"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:2:3",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "Part 107 Small Unmanned Aircraft Systems",
+    "page": 2,
+    "chunk_index": 3,
+    "text": ".56 Applicability. \u00a7 107.57 Offenses involving alcohol or drugs. \u00a7 107.59 Refusal to submit to an alcohol test or to furnish test results. \u00a7 107.61 Eligibility. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR Part 107 (Dec. 30, 2024) 14 CFR Part 107 (Dec. 30, 2024) (enhanced display) page 2 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:3:4",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 3,
+    "chunk_index": 4,
+    "text": "\u00a7 107.63 Issuance of a remote pilot certificate with a small UAS rating. \u00a7 107.64 Temporary certificate. \u00a7 107.65 Aeronautical knowledge recency. \u00a7 107.67 Knowledge tests: General procedures and passing grades. \u00a7 107.69 Knowledge tests: Cheating or other unauthorized conduct. \u00a7 107.71 Retesting after failure. \u00a7 107.73 Knowledge and training. \u00a7 107.74 Small unmanned aircraft system training. \u00a7 107.77 Change of name or address. \u00a7 107.79 Voluntary surrender of certificate. Subpart D Operations Over Human Beings \u00a7 107.100 Applicability. \u00a7 107.105 Limitations on operations over human beings. \u00a7 107.110 Category 1 operations. \u00a7 107.115 Category 2 operations: Operating requirements. \u00a7 107.120 Category 2 operations: Eligibility of small unmanned aircraft and other applicant requirements. \u00a7 107.125 Category 3 operations: Operating requirements. \u00a7 107.130 Category 3 operations: Eligibility of small"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:3:5",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 3,
+    "chunk_index": 5,
+    "text": "irements. \u00a7 107.125 Category 3 operations: Operating requirements. \u00a7 107.130 Category 3 operations: Eligibility of small unmanned aircraft and other applicant requirements. \u00a7 107.135 Labeling by remote pilot in command for Category 2 and 3 operations. \u00a7 107.140 Category 4 operations. \u00a7 107.145 Operations over moving vehicles. \u00a7 107.150 Variable mode and variable configuration of small unmanned aircraft systems. \u00a7 107.155 Means of compliance. \u00a7 107.160 Declaration of compliance. \u00a7 107.165 Record retention. Subpart E Waivers \u00a7 107.200 Waiver policy and requirements. \u00a7 107.205 List of regulations subject to waiver. PART 107\u2014SMALL UNMANNED AIRCRAFT SYSTEMS Authority: 49 U.S.C. 106(f), 40101 note, 40103(b), 44701(a)(5), 46105(c), 46110, 44807. Source: Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, unless otherwise noted. Subpart A\u2014General 14 CFR Part 107 (up to date as of 12/3"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:3:6",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 3,
+    "chunk_index": 6,
+    "text": "mdt. 107-1, 81 FR 42209, June 28, 2016, unless otherwise noted. Subpart A\u2014General 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR Part 107 (Dec. 30, 2024) 14 CFR 107 (enhanced display) page 3 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:4:7",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 4,
+    "chunk_index": 7,
+    "text": "\u00a7 107.1 Applicability. [Amdt. No. 107-8, 86 FR 4381, Jan. 15, 2021] \u00a7 107.2 Applicability of certification procedures for products and articles. The provisions of part 21 of this chapter do not apply to small unmanned aircraft systems operated under this part unless the small unmanned aircraft system will operate over human beings in accordance with \u00a7 107.140. [Amdt. No. 107-8, 86 FR 4381, Jan. 15, 2021] \u00a7 107.3 Definitions. The following definitions apply to this part. If there is a conflict between the definitions of this part and definitions specified in \u00a7 1.1 of this chapter, the definitions in this part control for purposes of this part: (a) Except as provided in paragraph (b) of this section, this part applies to the registration, airman certification, and operation of civil small unmanned aircraft systems within the United States. This part also applies to the eligibility of civil"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:4:8",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 4,
+    "chunk_index": 8,
+    "text": "on of civil small unmanned aircraft systems within the United States. This part also applies to the eligibility of civil small unmanned aircraft systems to operate over human beings in the United States. (b) This part does not apply to the following: (1) Air carrier operations; (2) Any aircraft subject to the provisions of 49 U.S.C. 44809; (3) Any operation that the holder of an exemption under section 333 of Public Law 112-95 or 49 U.S.C. 44807 elects to conduct pursuant to the exemption, unless otherwise specified in the exemption; or (4) Any operation that a person elects to conduct under part 91 of this chapter with a small unmanned aircraft system that has been issued an airworthiness certificate. Control station means an interface used by the remote pilot to control the flight path of the small unmanned aircraft. Corrective lenses means spectacles or contact lenses. Declaration of"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:4:9",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 4,
+    "chunk_index": 9,
+    "text": "ol the flight path of the small unmanned aircraft. Corrective lenses means spectacles or contact lenses. Declaration of compliance means a record submitted to the FAA that certifies the small unmanned aircraft conforms to the Category 2 or Category 3 requirements under subpart D of this part. Small unmanned aircraft means an unmanned aircraft weighing less than 55 pounds on takeoff, including everything that is on board or otherwise attached to the aircraft. Small unmanned aircraft system (small UAS) means a small unmanned aircraft and its associated elements (including communication links and the components that control the small unmanned aircraft) that are required for the safe and efficient operation of the small unmanned aircraft in the national airspace system. Unmanned aircraft means an aircraft operated without the possibility of direct human intervention from within or on the air"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:4:10",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 4,
+    "chunk_index": 10,
+    "text": "anned aircraft means an aircraft operated without the possibility of direct human intervention from within or on the aircraft. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.1 14 CFR 107.3 \u201cUnmanned aircraft\u201d (enhanced display) page 4 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:5:11",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 5,
+    "chunk_index": 11,
+    "text": "[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4381, Jan. 15, 2021] \u00a7 107.5 Falsification, reproduction, or alteration. [Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4381, Jan. 15, 2021] \u00a7 107.7 Inspection, testing, and demonstration of compliance. Visual observer means a person who is designated by the remote pilot in command to assist the remote pilot in command and the person manipulating the flight controls of the small UAS to see and avoid other air traffic or objects aloft or on the ground. (a) No person may make or cause to be made\u2014 (1) Any fraudulent or intentionally false record or report that is required to be made, kept, or used to show compliance with any requirement under this part. (2) Any reproduction or alteration, for fraudulent purpose, of any certificate, rating"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:5:12",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 5,
+    "chunk_index": 12,
+    "text": "any requirement under this part. (2) Any reproduction or alteration, for fraudulent purpose, of any certificate, rating, authorization, record or report under this part. (b) The commission by any person of an act prohibited under paragraph (a) of this section is a basis for any of the following: (1) Denial of an application for a remote pilot certificate or a certificate of waiver; (2) Denial of a declaration of compliance; (3) Suspension or revocation of any certificate, waiver, or declaration of compliance issued or accepted by the Administrator under this part and held by that person; or (4) A civil penalty. (a) A remote pilot in command, owner, or person manipulating the flight controls of a small unmanned aircraft system must\u2014 (1) Have in that person's physical possession and readily accessible the remote pilot certificate with a small UAS rating and identification when exercising"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:5:13",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 5,
+    "chunk_index": 13,
+    "text": "ssession and readily accessible the remote pilot certificate with a small UAS rating and identification when exercising the privileges of that remote pilot certificate. (2) Present his or her remote pilot certificate with a small UAS rating and identification that contains the information listed at \u00a7 107.67(b)(1) through (3) for inspection upon a request from\u2014 (i) The Administrator; (ii) An authorized representative of the National Transportation Safety Board; (iii) Any Federal, State, or local law enforcement officer; or (iv) An authorized representative of the Transportation Security Administration. (3) Make available, upon request, to the Administrator any document, record, or report required to be kept under the regulations of this chapter. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.3 \u201cVisual observer\u201d 14 CFR 107.7(a)(3) (enhanced display"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:5:14",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 5,
+    "chunk_index": 14,
+    "text": "te as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.3 \u201cVisual observer\u201d 14 CFR 107.7(a)(3) (enhanced display) page 5 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:6:15",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 6,
+    "chunk_index": 15,
+    "text": "[Amdt. No. 107-8, 86 FR 4381, Jan. 15, 2021] \u00a7 107.9 Safety event reporting. No later than 10 calendar days after an operation that meets the criteria of either paragraph (a) or (b) of this section, a remote pilot in command must report to the FAA, in a manner acceptable to the Administrator, any operation of the small unmanned aircraft involving at least: [Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Docket No. FAA-2022-1355; Amdt. No. 107-10; 87 FR 75846, Dec. 9 2022] Subpart B\u2014Operating Rules \u00a7 107.11 Applicability. This subpart applies to the operation of all civil small unmanned aircraft systems subject to this part. \u00a7 107.12 Requirement for a remote pilot certificate with a small UAS rating. (b) The remote pilot in command, visual observer, owner, operator, or person manipulating the flight controls of a small unmanned aircraft system must, upon requ"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:6:16",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 6,
+    "chunk_index": 16,
+    "text": "bserver, owner, operator, or person manipulating the flight controls of a small unmanned aircraft system must, upon request, allow the Administrator to make any test or inspection of the small unmanned aircraft system, the remote pilot in command, the person manipulating the flight controls of a small unmanned aircraft system, and, if applicable, the visual observer to determine compliance with this part. (c) Any person holding an FAA-accepted declaration of compliance under subpart D of this part must, upon request, make available to the Administrator: (1) The declaration of compliance required under subpart D of this part; and (2) Any other document, record, or report required to be kept under the regulations of this chapter. (d) Any person holding an FAA-accepted declaration of compliance under subpart D of this part must, upon request, allow the Administrator to inspect its facilitie"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:6:17",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 6,
+    "chunk_index": 17,
+    "text": "laration of compliance under subpart D of this part must, upon request, allow the Administrator to inspect its facilities, technical data, and any manufactured small UAS and witness any tests necessary to determine compliance with that subpart. (a) Serious injury to any person or any loss of consciousness; or (b) Damage to any property, other than the small unmanned aircraft, unless one of the following conditions is satisfied: (1) The cost of repair (including materials and labor) does not exceed $500; or (2) The fair market value of the property does not exceed $500 in the event of total loss. (a) Except as provided in paragraph (c) of this section, no person may manipulate the flight controls of a small unmanned aircraft system unless: (1) That person has a remote pilot certificate with a small UAS rating issued pursuant to subpart C of this part and satisfies the requirements of \u00a7 10"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:6:18",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 6,
+    "chunk_index": 18,
+    "text": "lot certificate with a small UAS rating issued pursuant to subpart C of this part and satisfies the requirements of \u00a7 107.65; or 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.7(b) 14 CFR 107.12(a)(1) (enhanced display) page 6 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:7:19",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "A person operating a civil small unmanned aircraft system for purposes of flight must comply with the provisions of",
+    "page": 7,
+    "chunk_index": 19,
+    "text": "\u00a7 107.13 Registration. A person operating a civil small unmanned aircraft system for purposes of flight must comply with the provisions of \u00a7 91.203(a)(2) of this chapter. \u00a7 107.15 Condition for safe operation. \u00a7 107.17 Medical condition. No person may manipulate the flight controls of a small unmanned aircraft system or act as a remote pilot in command, visual observer, or direct participant in the operation of the small unmanned aircraft if he or she knows or has reason to know that he or she has a physical or mental condition that would interfere with the safe operation of the small unmanned aircraft system. \u00a7 107.19 Remote pilot in command. [Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021] (2) That person is under the direct supervision of a remote pilot in command and the remote pilot in command has the ability t"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:7:20",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "A person operating a civil small unmanned aircraft system for purposes of flight must comply with the provisions of",
+    "page": 7,
+    "chunk_index": 20,
+    "text": "at person is under the direct supervision of a remote pilot in command and the remote pilot in command has the ability to immediately take direct control of the flight of the small unmanned aircraft. (b) Except as provided in paragraph (c) of this section, no person may act as a remote pilot in command unless that person has a remote pilot certificate with a small UAS rating issued pursuant to Subpart C of this part and satisfies the requirements of \u00a7 107.65. (c) The Administrator may, consistent with international standards, authorize an airman to operate a civil foreign-registered small unmanned aircraft without an FAA-issued remote pilot certificate with a small UAS rating. (a) No person may operate a civil small unmanned aircraft system unless it is in a condition for safe operation. Prior to each flight, the remote pilot in command must check the small unmanned aircraft system to de"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:7:21",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "A person operating a civil small unmanned aircraft system for purposes of flight must comply with the provisions of",
+    "page": 7,
+    "chunk_index": 21,
+    "text": "or safe operation. Prior to each flight, the remote pilot in command must check the small unmanned aircraft system to determine whether it is in a condition for safe operation. (b) No person may continue flight of the small unmanned aircraft when he or she knows or has reason to know that the small unmanned aircraft system is no longer in a condition for safe operation. (a) A remote pilot in command must be designated before or during the flight of the small unmanned aircraft. (b) The remote pilot in command is directly responsible for and is the final authority as to the operation of the small unmanned aircraft system. (c) The remote pilot in command must ensure that the small unmanned aircraft will pose no undue hazard to other people, other aircraft, or other property in the event of a loss of control of the small unmanned aircraft for any reason. (d) The remote pilot in command must"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:7:22",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "A person operating a civil small unmanned aircraft system for purposes of flight must comply with the provisions of",
+    "page": 7,
+    "chunk_index": 22,
+    "text": "y in the event of a loss of control of the small unmanned aircraft for any reason. (d) The remote pilot in command must ensure that the small UAS operation complies with all applicable regulations of this chapter. (e) The remote pilot in command must have the ability to direct the small unmanned aircraft to ensure compliance with the applicable provisions of this chapter. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.12(a)(2) 14 CFR 107.19(e) (enhanced display) page 7 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:8:23",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "No person may",
+    "page": 8,
+    "chunk_index": 23,
+    "text": "\u00a7 107.21 In-flight emergency. \u00a7 107.23 Hazardous operation. No person may: \u00a7 107.25 Operation from a moving vehicle or aircraft. No person may operate a small unmanned aircraft system\u2014 \u00a7 107.27 Alcohol or drugs. A person manipulating the flight controls of a small unmanned aircraft system or acting as a remote pilot in command or visual observer must comply with the provisions of \u00a7\u00a7 91.17 and 91.19 of this chapter. \u00a7 107.29 Operation at night. (a) In an in-flight emergency requiring immediate action, the remote pilot in command may deviate from any rule of this part to the extent necessary to meet that emergency. (b) Each remote pilot in command who deviates from a rule under paragraph (a) of this section must, upon request of the Administrator, send a written report of that deviation to the Administrator. (a) Operate a small unmanned aircraft system in a careless or reckless manner so a"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:8:24",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "No person may",
+    "page": 8,
+    "chunk_index": 24,
+    "text": "that deviation to the Administrator. (a) Operate a small unmanned aircraft system in a careless or reckless manner so as to endanger the life or property of another; or (b) Allow an object to be dropped from a small unmanned aircraft in a manner that creates an undue hazard to persons or property. (a) From a moving aircraft; or (b) From a moving land or water-borne vehicle unless the small unmanned aircraft is flown over a sparsely populated area and is not transporting another person's property for compensation or hire. (a) Except as provided in paragraph (d) of this section, no person may operate a small unmanned aircraft system at night unless\u2014 (1) The remote pilot in command of the small unmanned aircraft has completed an initial knowledge test or training, as applicable, under \u00a7 107.65 after April 6, 2021; and (2) The small unmanned aircraft has lighted anti-collision lighting visi"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:8:25",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "No person may",
+    "page": 8,
+    "chunk_index": 25,
+    "text": "icable, under \u00a7 107.65 after April 6, 2021; and (2) The small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statute miles that has a flash rate sufficient to avoid a collision. The remote pilot in command may reduce the intensity of, but may not extinguish, the anti-collision lighting if he or she determines that, because of operating conditions, it would be in the interest of safety to do so. (b) No person may operate a small unmanned aircraft system during periods of civil twilight unless the small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statute miles that has a flash rate sufficient to avoid a collision. The remote pilot in command may reduce the intensity of, but may not extinguish, the anti-collision lighting if he or she determines that, because of operating conditions, it would be in the interest of safety to do s"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:8:26",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "No person may",
+    "page": 8,
+    "chunk_index": 26,
+    "text": "on lighting if he or she determines that, because of operating conditions, it would be in the interest of safety to do so. (c) For purposes of paragraph (b) of this section, civil twilight refers to the following: 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.21 14 CFR 107.29(c) (enhanced display) page 8 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:9:27",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 9,
+    "chunk_index": 27,
+    "text": "[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021; 86 FR 13631, Mar. 10, 2020] \u00a7 107.31 Visual line of sight aircraft operation. \u00a7 107.33 Visual observer. If a visual observer is used during the aircraft operation, all of the following requirements must be met: (1) Except for Alaska, a period of time that begins 30 minutes before official sunrise and ends at official sunrise; (2) Except for Alaska, a period of time that begins at official sunset and ends 30 minutes after official sunset; and (3) In Alaska, the period of civil twilight as defined in the Air Almanac. (d) After May 17, 2021, no person may operate a small unmanned aircraft system at night in accordance with a certificate of waiver issued prior to April 21, 2021 under \u00a7 107.200. The certificates of waiver issued prior to March 16, 2021 under \u00a7 107.200 that"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:9:28",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 9,
+    "chunk_index": 28,
+    "text": "prior to April 21, 2021 under \u00a7 107.200. The certificates of waiver issued prior to March 16, 2021 under \u00a7 107.200 that authorize deviation from \u00a7 107.29 terminate on May 17, 2021. (a) With vision that is unaided by any device other than corrective lenses, the remote pilot in command, the visual observer (if one is used), and the person manipulating the flight control of the small unmanned aircraft system must be able to see the unmanned aircraft throughout the entire flight in order to: (1) Know the unmanned aircraft's location; (2) Determine the unmanned aircraft's attitude, altitude, and direction of flight; (3) Observe the airspace for other air traffic or hazards; and (4) Determine that the unmanned aircraft does not endanger the life or property of another. (b) Throughout the entire flight of the small unmanned aircraft, the ability described in paragraph (a) of this section must"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:9:29",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 9,
+    "chunk_index": 29,
+    "text": "hroughout the entire flight of the small unmanned aircraft, the ability described in paragraph (a) of this section must be exercised by either: (1) The remote pilot in command and the person manipulating the flight controls of the small unmanned aircraft system; or (2) A visual observer. (a) The remote pilot in command, the person manipulating the flight controls of the small unmanned aircraft system, and the visual observer must maintain effective communication with each other at all times. (b) The remote pilot in command must ensure that the visual observer is able to see the unmanned aircraft in the manner specified in \u00a7 107.31. (c) The remote pilot in command, the person manipulating the flight controls of the small unmanned aircraft system, and the visual observer must coordinate to do the following: (1) Scan the airspace where the small unmanned aircraft is operating for any potent"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:9:30",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 9,
+    "chunk_index": 30,
+    "text": "must coordinate to do the following: (1) Scan the airspace where the small unmanned aircraft is operating for any potential collision hazard; and (2) Maintain awareness of the position of the small unmanned aircraft through direct visual observation. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.29(c)(1) 14 CFR 107.33(c)(2) (enhanced display) page 9 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:10:31",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "A person may not manipulate flight controls or act as a remote pilot in command or visual observer in the operation",
+    "page": 10,
+    "chunk_index": 31,
+    "text": "\u00a7 107.35 Operation of multiple small unmanned aircraft. A person may not manipulate flight controls or act as a remote pilot in command or visual observer in the operation of more than one unmanned aircraft at the same time. [Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021] \u00a7 107.36 Carriage of hazardous material. A small unmanned aircraft may not carry hazardous material. For purposes of this section, the term hazardous material is defined in 49 CFR 171.8. \u00a7 107.37 Operation near aircraft; right-of-way rules. \u00a7 107.39 Operation over human beings. No person may operate a small unmanned aircraft over a human being unless\u2014 [Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021] \u00a7 107.41 Operation in certain airspace. No person may operate a small unmanned aircraft in Class B, Class C, or Class D airspace or within the lateral boundaries of the surface area of Class E airspace designated for an airport unl"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:10:32",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "A person may not manipulate flight controls or act as a remote pilot in command or visual observer in the operation",
+    "page": 10,
+    "chunk_index": 32,
+    "text": "Class D airspace or within the lateral boundaries of the surface area of Class E airspace designated for an airport unless that person has prior authorization from Air Traffic Control (ATC). \u00a7 107.43 Operation in the vicinity of airports. No person may operate a small unmanned aircraft in a manner that interferes with operations and traffic patterns at any airport, heliport, or seaplane base. \u00a7 107.45 Operation in prohibited or restricted areas. No person may operate a small unmanned aircraft in prohibited or restricted areas unless that person has permission from the using or controlling agency, as appropriate. (a) Each small unmanned aircraft must yield the right of way to all aircraft, airborne vehicles, and launch and reentry vehicles. Yielding the right of way means that the small unmanned aircraft must give way to the aircraft or vehicle and may not pass over, under, or ahead of i"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:10:33",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "A person may not manipulate flight controls or act as a remote pilot in command or visual observer in the operation",
+    "page": 10,
+    "chunk_index": 33,
+    "text": "ns that the small unmanned aircraft must give way to the aircraft or vehicle and may not pass over, under, or ahead of it unless well clear. (b) No person may operate a small unmanned aircraft so close to another aircraft as to create a collision hazard. (a) That human being is directly participating in the operation of the small unmanned aircraft; (b) That human being is located under a covered structure or inside a stationary vehicle that can provide reasonable protection from a falling small unmanned aircraft; or (c) The operation meets the requirements of at least one of the operational categories specified in subpart D of this part. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.35 14 CFR 107.45 (enhanced display) page 10 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:11:34",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 11,
+    "chunk_index": 34,
+    "text": "\u00a7 107.47 Flight restrictions in the proximity of certain areas designated by notice to airmen. A person acting as a remote pilot in command must comply with the provisions of \u00a7\u00a7 91.137 through 91.145 and 99.7 of this chapter. \u00a7 107.49 Preflight familiarization, inspection, and actions for aircraft operation. Prior to flight, the remote pilot in command must: [Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021] \u00a7 107.51 Operating limitations for small unmanned aircraft. A remote pilot in command and the person manipulating the flight controls of the small unmanned aircraft system must comply with all of the following operating limitations when operating a small unmanned aircraft system: (a) Assess the operating environment, considering risks to persons and property in the immediate vicinity both on the surface and in the"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:11:35",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 11,
+    "chunk_index": 35,
+    "text": "perating environment, considering risks to persons and property in the immediate vicinity both on the surface and in the air. This assessment must include: (1) Local weather conditions; (2) Local airspace and any flight restrictions; (3) The location of persons and property on the surface; and (4) Other ground hazards. (b) Ensure that all persons directly participating in the small unmanned aircraft operation are informed about the operating conditions, emergency procedures, contingency procedures, roles and responsibilities, and potential hazards; (c) Ensure that all control links between ground control station and the small unmanned aircraft are working properly; (d) If the small unmanned aircraft is powered, ensure that there is enough available power for the small unmanned aircraft system to operate for the intended operational time; (e) Ensure that any object attached or carried by"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:11:36",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 11,
+    "chunk_index": 36,
+    "text": "nmanned aircraft system to operate for the intended operational time; (e) Ensure that any object attached or carried by the small unmanned aircraft is secure and does not adversely affect the flight characteristics or controllability of the aircraft; and (f) If the operation will be conducted over human beings under subpart D of this part, ensure that the aircraft meets the requirements of \u00a7 107.110, \u00a7 107.120(a), \u00a7 107.130(a), or \u00a7 107.140, as applicable. (a) The groundspeed of the small unmanned aircraft may not exceed 87 knots (100 miles per hour). (b) The altitude of the small unmanned aircraft cannot be higher than 400 feet above ground level, unless the small unmanned aircraft: (1) Is flown within a 400-foot radius of a structure; and (2) Does not fly higher than 400 feet above the structure's immediate uppermost limit. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned A"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:11:37",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 11,
+    "chunk_index": 37,
+    "text": "400 feet above the structure's immediate uppermost limit. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.47 14 CFR 107.51(b)(2) (enhanced display) page 11 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:12:38",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 12,
+    "chunk_index": 38,
+    "text": "Subpart C\u2014Remote Pilot Certification \u00a7 107.52 ATC transponder equipment prohibition. Unless otherwise authorized by the Administrator, no person may operate a small unmanned aircraft system under this part with a transponder on. [Amdt. No. 107-7, 86 FR 4513, Jan. 15, 2021] \u00a7 107.53 Automatic Dependent Surveillance-Broadcast (ADS-B) Out prohibition. Unless otherwise authorized by the Administrator, no person may operate a small unmanned aircraft system under this part with ADS-B Out equipment in transmit mode. [Amdt. No. 107-7, 86 FR 4513, Jan. 15, 2021] \u00a7 107.56 Applicability. This subpart prescribes the requirements for issuing a remote pilot certificate with a small UAS rating. [ Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016. Redesignated by Amdt. No. 107-7, 86 FR 4513, Jan. 15, 2021] \u00a7 107.57 Offenses involving alcohol or drugs. (c) The minimum flight visibility, as ob"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:12:39",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 12,
+    "chunk_index": 39,
+    "text": "107-7, 86 FR 4513, Jan. 15, 2021] \u00a7 107.57 Offenses involving alcohol or drugs. (c) The minimum flight visibility, as observed from the location of the control station must be no less than 3 statute miles. For purposes of this section, flight visibility means the average slant distance from the control station at which prominent unlighted objects may be seen and identified by day and prominent lighted objects may be seen and identified by night. (d) The minimum distance of the small unmanned aircraft from clouds must be no less than: (1) 500 feet below the cloud; and (2) 2,000 feet horizontally from the cloud. (a) A conviction for the violation of any Federal or State statute relating to the growing, processing, manufacture, sale, disposition, possession, transportation, or importation of narcotic drugs, marijuana, or depressant or stimulant drugs or substances is grounds for: (1) Denial"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:12:40",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 12,
+    "chunk_index": 40,
+    "text": ", or importation of narcotic drugs, marijuana, or depressant or stimulant drugs or substances is grounds for: (1) Denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of final conviction; or (2) Suspension or revocation of a remote pilot certificate with a small UAS rating. (b) Committing an act prohibited by \u00a7 91.17(a) or \u00a7 91.19(a) of this chapter is grounds for: (1) Denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of that act; or (2) Suspension or revocation of a remote pilot certificate with a small UAS rating. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.51(c) 14 CFR 107.57(b)(2) (enhanced display) page 12 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:13:41",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 13,
+    "chunk_index": 41,
+    "text": "\u00a7 107.59 Refusal to submit to an alcohol test or to furnish test results. A refusal to submit to a test to indicate the percentage by weight of alcohol in the blood, when requested by a law enforcement officer in accordance with \u00a7 91.17(c) of this chapter, or a refusal to furnish or authorize the release of the test results requested by the Administrator in accordance with \u00a7 91.17(c) or (d) of this chapter, is grounds for: \u00a7 107.61 Eligibility. Subject to the provisions of \u00a7\u00a7 107.57 and 107.59, in order to be eligible for a remote pilot certificate with a small UAS rating under this subpart, a person must: [Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021] \u00a7 107.63 Issuance of a remote pilot certificate with a small UAS rating. An applicant for a remote pilot certificate with a small UAS rating under this subpart must"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:13:42",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 13,
+    "chunk_index": 42,
+    "text": "ate with a small UAS rating. An applicant for a remote pilot certificate with a small UAS rating under this subpart must make the application in a form and manner acceptable to the Administrator. (a) Denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of that refusal; or (b) Suspension or revocation of a remote pilot certificate with a small UAS rating. (a) Be at least 16 years of age; (b) Be able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, the FAA may place such operating limitations on that applicant's certificate as are necessary for the safe operation of the small unmanned aircraft; (c) Not know or have reason to know that he or she has a physical or mental condition that would interfere with the safe operation of"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:13:43",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 13,
+    "chunk_index": 43,
+    "text": "or have reason to know that he or she has a physical or mental condition that would interfere with the safe operation of a small unmanned aircraft system; and (d) Demonstrate aeronautical knowledge by satisfying one of the following conditions, in a manner acceptable to the Administrator: (1) Pass an initial aeronautical knowledge test covering the areas of knowledge specified in \u00a7 107.73; or (2) If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in \u00a7 61.56, complete training covering the areas of knowledge specified in \u00a7 107.74. (a) The application must include either: (1) Evidence showing that the applicant passed an initial aeronautical knowledge test. If applying using a paper application, this evidence must be an airman knowledge test report showing passage of the know"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:13:44",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 13,
+    "chunk_index": 44,
+    "text": "If applying using a paper application, this evidence must be an airman knowledge test report showing passage of the knowledge test; or (2) If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in \u00a7 61.56, a certificate of completion of an initial training course under this part that covers the areas of knowledge specified in \u00a7 107.74. (b) If the application is being made pursuant to paragraph (a)(2) of this section: 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.59 14 CFR 107.63(b) (enhanced display) page 13 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:14:45",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 14,
+    "chunk_index": 45,
+    "text": "[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Docket FAA-2018-0119, Amdt. 107-2, 83 FR 9172, Mar. 5, 2018; Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021] ] \u00a7 107.64 Temporary certificate. \u00a7 107.65 Aeronautical knowledge recency. A person may not exercise the privileges of a remote pilot in command with small UAS rating unless that person has accomplished one of the following in a manner acceptable to the Administrator within the previous 24 calendar months: [Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021; 86 FR 13631, Mar. 10, 2021] \u00a7 107.67 Knowledge tests: General procedures and passing grades. (1) The application must be submitted to the responsible Flight Standards office, a designated pilot examiner, an airman certification representative for a pilot school, a certificated flight instructor, or other person authorized by the Administrator; (2) The person acc"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:14:46",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 14,
+    "chunk_index": 46,
+    "text": "or a pilot school, a certificated flight instructor, or other person authorized by the Administrator; (2) The person accepting the application submission must verify the identity of the applicant in a manner acceptable to the Administrator; and (3) The person making the application must, by logbook endorsement or other manner acceptable to the Administrator, show the applicant meets the flight review requirements specified in \u00a7 61.56 of this chapter. (a) A temporary remote pilot certificate with a small UAS rating is issued for up to 120 calendar days, at which time a permanent certificate will be issued to a person whom the Administrator finds qualified under this part. (b) A temporary remote pilot certificate with a small UAS rating expires: (1) On the expiration date shown on the certificate; (2) Upon receipt of the permanent certificate; or (3) Upon receipt of a notice that the certi"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:14:47",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 14,
+    "chunk_index": 47,
+    "text": "shown on the certificate; (2) Upon receipt of the permanent certificate; or (3) Upon receipt of a notice that the certificate sought is denied or revoked. (a) Passed an initial aeronautical knowledge test covering the areas of knowledge specified in \u00a7 107.73; (b) Completed recurrent training covering the areas of knowledge specified in \u00a7 107.73; or (c) If a person holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in \u00a7 61.56, completed training covering the areas of knowledge specified in \u00a7 107.74. (d) A person who has passed a recurrent aeronautical knowledge test in a manner acceptable to the Administrator or who has satisfied the training requirement of paragraph (c) of this section prior to April 6, 2021 within the previous 24 calendar months is considered to be in compliance with"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:14:48",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 14,
+    "chunk_index": 48,
+    "text": "(c) of this section prior to April 6, 2021 within the previous 24 calendar months is considered to be in compliance with the requirement of paragraph (b) or (c) of this section, as applicable. (a) Knowledge tests prescribed by or under this part are given by persons and in the manner designated by the Administrator. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.63(b)(1) 14 CFR 107.67(a) (enhanced display) page 14 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:15:49",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "An applicant for a knowledge test who fails that test may not reapply for the test for 14 calendar days after failing",
+    "page": 15,
+    "chunk_index": 49,
+    "text": "\u00a7 107.69 Knowledge tests: Cheating or other unauthorized conduct. \u00a7 107.71 Retesting after failure. An applicant for a knowledge test who fails that test may not reapply for the test for 14 calendar days after failing the test. \u00a7 107.73 Knowledge and training. An initial aeronautical knowledge test and recurrent training covers the following areas of knowledge: (b) An applicant for a knowledge test must have proper identification at the time of application that contains the applicant's: (1) Photograph; (2) Signature; (3) Date of birth, which shows the applicant meets or will meet the age requirements of this part for the certificate and rating sought before the expiration date of the airman knowledge test report; and (4) Permanent mailing address. If the applicant's permanent mailing address is a post office box number, then the applicant must also provide a current residential address."
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:15:50",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "An applicant for a knowledge test who fails that test may not reapply for the test for 14 calendar days after failing",
+    "page": 15,
+    "chunk_index": 50,
+    "text": "manent mailing address is a post office box number, then the applicant must also provide a current residential address. (c) The minimum passing grade for the knowledge test will be specified by the Administrator. (a) An applicant for a knowledge test may not: (1) Copy or intentionally remove any knowledge test; (2) Give to another applicant or receive from another applicant any part or copy of a knowledge test; (3) Give or receive assistance on a knowledge test during the period that test is being given; (4) Take any part of a knowledge test on behalf of another person; (5) Be represented by, or represent, another person for a knowledge test; (6) Use any material or aid during the period that the test is being given, unless specifically authorized to do so by the Administrator; and (7) Intentionally cause, assist, or participate in any act prohibited by this paragraph. (b) An applicant w"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:15:51",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "An applicant for a knowledge test who fails that test may not reapply for the test for 14 calendar days after failing",
+    "page": 15,
+    "chunk_index": 51,
+    "text": "strator; and (7) Intentionally cause, assist, or participate in any act prohibited by this paragraph. (b) An applicant who the Administrator finds has committed an act prohibited by paragraph (a) of this section is prohibited, for 1 year after the date of committing that act, from: (1) Applying for any certificate, rating, or authorization issued under this chapter; and (2) Applying for and taking any test under this chapter. (c) Any certificate or rating held by an applicant may be suspended or revoked if the Administrator finds that person has committed an act prohibited by paragraph (a) of this section. (a) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation; (b) Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation; 14 CFR Part 107 (up to date as of 12/30/"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:15:52",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "An applicant for a knowledge test who fails that test may not reapply for the test for 14 calendar days after failing",
+    "page": 15,
+    "chunk_index": 52,
+    "text": "uirements, and flight restrictions affecting small unmanned aircraft operation; 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.67(b) 14 CFR 107.73(b) (enhanced display) page 15 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:16:53",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 16,
+    "chunk_index": 53,
+    "text": "[Amdt. No. 107-8, 86 FR 4383, Jan. 15, 2021] \u00a7 107.74 Small unmanned aircraft system training. Training for pilots who hold a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meet the flight review requirements specified in \u00a7 61.56 covers the following areas of knowledge: [Amdt. No. 107-8, 86 FR 4383, Jan. 15, 2021] \u00a7 107.77 Change of name or address. (c) Aviation weather sources and effects of weather on small unmanned aircraft performance; (d) Small unmanned aircraft loading; (e) Emergency procedures; (f) Crew resource management; (g) Radio communication procedures; (h) Determining the performance of the small unmanned aircraft; (i) Physiological effects of drugs and alcohol; (j) Aeronautical decision-making and judgment; (k) Airport operations; (l) Maintenance and preflight inspection procedures; and (m) Operation at night. (a) Applic"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:16:54",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 16,
+    "chunk_index": 54,
+    "text": "ent; (k) Airport operations; (l) Maintenance and preflight inspection procedures; and (m) Operation at night. (a) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation; (b) Effects of weather on small unmanned aircraft performance; (c) Small unmanned aircraft loading; (d) Emergency procedures; (e) Crew resource management; (f) Determining the performance of the small unmanned aircraft; (g) Maintenance and preflight inspection procedures; and (h) Operation at night. (a) Change of name. An application to change the name on a certificate issued under this subpart must be accompanied by the applicant's: (1) Remote pilot certificate with small UAS rating; and (2) A copy of the marriage license, court order, or other document verifying the name change. (b) The documents in paragraph (a) of this section will be returned to the app"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:16:55",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 16,
+    "chunk_index": 55,
+    "text": "other document verifying the name change. (b) The documents in paragraph (a) of this section will be returned to the applicant after inspection. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.73(c) 14 CFR 107.77(b) (enhanced display) page 16 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:17:56",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 17,
+    "chunk_index": 56,
+    "text": "\u00a7 107.79 Voluntary surrender of certificate. Subpart D\u2014Operations Over Human Beings Source: Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021 \u00a7 107.100 Applicability. This subpart prescribes the eligibility and operating requirements for civil small unmanned aircraft to operate over human beings or over moving vehicles in the United States, in addition to those operations permitted by \u00a7 107.39(a) and (b). \u00a7 107.105 Limitations on operations over human beings. Except as provided in \u00a7\u00a7 107.39(a) and (b) and 107.145, a remote pilot in command may conduct operations over human beings only in accordance with the following, as applicable: \u00a7 107.110 for Category 1 operations; \u00a7\u00a7 107.115 and 107.120 for Category 2 operations; \u00a7\u00a7 107.125 and 107.130 for Category 3 operations; or \u00a7 107.140 for Category 4 operations. \u00a7 107.110 Category 1 operations. To conduct Category 1 operations\u2014 (c) Change of address."
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:17:57",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 17,
+    "chunk_index": 57,
+    "text": "140 for Category 4 operations. \u00a7 107.110 Category 1 operations. To conduct Category 1 operations\u2014 (c) Change of address. The holder of a remote pilot certificate with small UAS rating issued under this subpart who has made a change in permanent mailing address may not, after 30 days from that date, exercise the privileges of the certificate unless the holder has notified the FAA of the change in address using one of the following methods: (1) By letter to the FAA Airman Certification Branch, P.O. Box 25082, Oklahoma City, OK 73125 providing the new permanent mailing address, or if the permanent mailing address includes a post office box number, then the holder's current residential address; or (2) By using the FAA Web site portal at www.faa.gov providing the new permanent mailing address, or if the permanent mailing address includes a post office box number, then the holder's current res"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:17:58",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 17,
+    "chunk_index": 58,
+    "text": "nt mailing address, or if the permanent mailing address includes a post office box number, then the holder's current residential address. (a) The holder of a certificate issued under this subpart may voluntarily surrender it for cancellation. (b) Any request made under paragraph (a) of this section must include the following signed statement or its equivalent: \u201cI voluntarily surrender my remote pilot certificate with a small UAS rating for cancellation. This request is made for my own reasons, with full knowledge that my certificate will not be reissued to me unless I again complete the requirements specified in \u00a7\u00a7 107.61 and 107.63.\u201d (a) A remote pilot in command must use a small unmanned aircraft that\u2014 (1) Weighs 0.55 pounds or less on takeoff and throughout the duration of each operation under Category 1, including everything that is on board or otherwise attached to the aircraft; and"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:17:59",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 17,
+    "chunk_index": 59,
+    "text": "ion of each operation under Category 1, including everything that is on board or otherwise attached to the aircraft; and (2) Does not contain any exposed rotating parts that would lacerate human skin upon impact with a human being. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.77(c) 14 CFR 107.110(a)(2) (enhanced display) page 17 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:18:60",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 18,
+    "chunk_index": 60,
+    "text": "[Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021, as amended by 86 FR 62473, Nov. 10, 2021] \u00a7 107.115 Category 2 operations: Operating requirements. To conduct Category 2 operations\u2014 \u00a7 107.120 Category 2 operations: Eligibility of small unmanned aircraft and other applicant requirements. (b) No remote pilot in command may operate a small unmanned aircraft in sustained flight over open-air assemblies of human beings unless the operation meets the requirements of either \u00a7 89.110 or \u00a7 89.115(a) of this chapter. (a) A remote pilot in command must use a small unmanned aircraft that\u2014 (1) Is eligible for Category 2 operations pursuant to \u00a7 107.120(a); (2) Is listed on an FAA-accepted declaration of compliance as eligible for Category 2 operations in accordance with \u00a7 107.160; and (3) Is labeled as eligible to conduct Category 2 operations in accordance with \u00a7 107.120(b)(1). (b) No remote pilot in co"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:18:61",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 18,
+    "chunk_index": 61,
+    "text": "3) Is labeled as eligible to conduct Category 2 operations in accordance with \u00a7 107.120(b)(1). (b) No remote pilot in command may operate a small unmanned aircraft in sustained flight over open-air assemblies of human beings unless the operation meets the requirements of either \u00a7 89.110 or \u00a7 89.115(a) of this chapter. (a) To be eligible for use in Category 2 operations, the small unmanned aircraft must be designed, produced, or modified such that it\u2014 (1) Will not cause injury to a human being that is equivalent to or greater than the severity of injury caused by a transfer of 11 foot-pounds of kinetic energy upon impact from a rigid object; (2) Does not contain any exposed rotating parts that would lacerate human skin upon impact with a human being; and (3) Does not contain any safety defects. (b) The applicant for a declaration of compliance for a small unmanned aircraft that is eligibl"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:18:62",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 18,
+    "chunk_index": 62,
+    "text": "tain any safety defects. (b) The applicant for a declaration of compliance for a small unmanned aircraft that is eligible for use in Category 2 operations in accordance with paragraph (a) of this section, must meet all of the following requirements for the applicant's unmanned aircraft to be used in Category 2 operations: (1) Display a label on the small unmanned aircraft indicating eligibility to conduct Category 2 operations. The label must be in English and be legible, prominent, and permanently affixed to the small unmanned aircraft. (2) Have remote pilot operating instructions that apply to the operation of the small unmanned aircraft system. The applicant for a declaration of compliance must make available these instructions upon sale or transfer of the aircraft or use of the aircraft by someone other than the applicant who submitted a declaration of compliance pursuant to \u00a7 107.16"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:18:63",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 18,
+    "chunk_index": 63,
+    "text": "r use of the aircraft by someone other than the applicant who submitted a declaration of compliance pursuant to \u00a7 107.160. Such instructions must address, at a minimum\u2014 (i) A system description that includes the required small unmanned aircraft system components, any system limitations, and the declared category or categories of operation; 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.110(b) 14 CFR 107.120(b)(2)(i) (enhanced display) page 18 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:19:64",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 19,
+    "chunk_index": 64,
+    "text": "\u00a7 107.125 Category 3 operations: Operating requirements. To conduct Category 3 operations, a remote pilot in command\u2014 [Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021, as amended by 86 FR 62473, Nov. 10, 2021] \u00a7 107.130 Category 3 operations: Eligibility of small unmanned aircraft and other applicant requirements. (ii) Modifications that will not change the ability of the small unmanned aircraft system to meet the requirements for the category or categories of operation the small unmanned aircraft system is eligible to conduct; and (iii) Instructions for how to verify and change the mode or configuration of the small unmanned aircraft system, if they are variable. (3) Maintain a product support and notification process. The applicant for a declaration of compliance must maintain product support and notification procedures to notify the public and the FAA of\u2014 (i) Any defect or condition that c"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:19:65",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 19,
+    "chunk_index": 65,
+    "text": "tain product support and notification procedures to notify the public and the FAA of\u2014 (i) Any defect or condition that causes the small unmanned aircraft to no longer meet the requirements of this subpart; and (ii) Any identified safety defect that causes the small unmanned aircraft to exceed a low probability of casualty. (a) Must use a small unmanned aircraft that\u2014 (1) Is eligible for Category 3 operations pursuant to \u00a7 107.130(a); (2) Is listed on an FAA-accepted declaration of compliance as eligible for Category 3 operations in accordance with \u00a7 107.160; and (3) Is labeled as eligible for Category 3 operations in accordance with \u00a7 107.130(b)(1); (b) Must not operate the small unmanned aircraft over open-air assemblies of human beings; and (c) May only operate the small unmanned aircraft above any human being if operation meets one of the following conditions: (1) The operation is wit"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:19:66",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 19,
+    "chunk_index": 66,
+    "text": "all unmanned aircraft above any human being if operation meets one of the following conditions: (1) The operation is within or over a closed- or restricted-access site and all human beings located within the closed- or restricted-access site must be on notice that a small unmanned aircraft may fly over them; or (2) The small unmanned aircraft does not maintain sustained flight over any human being unless that human being is\u2014 (i) Directly participating in the operation of the small unmanned aircraft; or (ii) Located under a covered structure or inside a stationary vehicle that can provide reasonable protection from a falling small unmanned aircraft. (a) To be eligible for use in Category 3 operations, the small unmanned aircraft must be designed, produced, or modified such that it\u2014 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.120(b)(2)(ii) 14 CF"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:19:67",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 19,
+    "chunk_index": 67,
+    "text": "ch that it\u2014 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.120(b)(2)(ii) 14 CFR 107.130(a) (enhanced display) page 19 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:20:68",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 20,
+    "chunk_index": 68,
+    "text": "\u00a7 107.135 Labeling by remote pilot in command for Category 2 and 3 operations. If a Category 2 or Category 3 label affixed to a small unmanned aircraft is damaged, destroyed, or missing, a remote pilot in command must label the aircraft in English such that the label is legible, prominent, and will remain on the small unmanned aircraft for the duration of the operation before conducting operations over human beings. The label must correctly identify the category or categories of operation over human beings that the small unmanned aircraft is qualified to conduct in accordance with this subpart. \u00a7 107.140 Category 4 operations. (1) Will not cause injury to a human being that is equivalent to or greater than the severity of the injury caused by a transfer of 25 foot-pounds of kinetic energy upon impact from a rigid object; (2) Does not contain any exposed rotating parts that would lacerate"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:20:69",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 20,
+    "chunk_index": 69,
+    "text": "s of kinetic energy upon impact from a rigid object; (2) Does not contain any exposed rotating parts that would lacerate human skin upon impact with a human being; and (3) Does not contain any safety defects. (b) The applicant for a declaration of compliance for a small unmanned aircraft that is eligible for use in Category 3 operations in accordance with paragraph (a) of this section, must meet all of the following requirements for the applicant's small unmanned aircraft to be used in Category 3 operations: (1) Display a label on the small unmanned aircraft indicating eligibility to conduct Category 3 operations. The label must be in English and be legible, prominent, and permanently affixed to the small unmanned aircraft. (2) Have remote pilot operating instructions that apply to the operation of the small unmanned aircraft system. The applicant for a declaration of compliance must mak"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:20:70",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 20,
+    "chunk_index": 70,
+    "text": "hat apply to the operation of the small unmanned aircraft system. The applicant for a declaration of compliance must make available these instructions upon sale or transfer of the aircraft or use of the aircraft by someone other than the applicant who submitted a declaration of compliance pursuant to \u00a7 107.160. Such instructions must address, at a minimum\u2014 (i) A system description that includes the required small unmanned aircraft system components, any system limitations, and the declared category or categories of operation; (ii) Modifications that will not change the ability of the small unmanned aircraft system to meet the requirements for the category or categories of operation the small unmanned aircraft system is eligible to conduct; and (iii) Instructions for how to verify and change the mode or configuration of the small unmanned aircraft system, if they are variable. (3) Maintai"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:20:71",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 20,
+    "chunk_index": 71,
+    "text": "to verify and change the mode or configuration of the small unmanned aircraft system, if they are variable. (3) Maintain a product support and notification process. The applicant for a declaration of compliance must maintain product support and notification procedures to notify the public and the FAA of\u2014 (i) Any defect or condition that causes the small unmanned aircraft to no longer meet the requirements of this subpart; and (ii) Any identified safety defect that causes the small unmanned aircraft to exceed a low probability of fatality. (a) Remote pilot in command requirements. To conduct Category 4 operations\u2014 (1) A remote pilot in command\u2014 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.130(a)(1) 14 CFR 107.140(a)(1) (enhanced display) page 20 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:21:72",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 21,
+    "chunk_index": 72,
+    "text": "(i) Must use a small unmanned aircraft that is eligible for Category 4 operations pursuant to paragraph (b) of this section; and (ii) Must operate the small unmanned aircraft in accordance with all operating limitations that apply to the small unmanned aircraft, as specified by the Administrator. (2) No remote pilot in command may operate a small unmanned aircraft in sustained flight over open-air assemblies of human beings unless the operation meets the requirements of either \u00a7 89.110 or \u00a7 89.115(a) of this chapter. (b) Small unmanned aircraft requirements for Category 4. To be eligible to operate over human beings under this section, the small unmanned aircraft must\u2014 (1) Have an airworthiness certificate issued under part 21 of this chapter. (2) Be operated in accordance with the operating limitations specified in the approved Flight Manual or as otherwise specified by the Administrato"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:21:73",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 21,
+    "chunk_index": 73,
+    "text": "nce with the operating limitations specified in the approved Flight Manual or as otherwise specified by the Administrator. The operating limitations must not prohibit operations over human beings. (3) Have maintenance, preventive maintenance, alterations, or inspections performed in accordance with paragraph (c)(1) of this section. (c) Maintenance requirements for Category 4. The owner must (unless the owner enters into an agreement with an operator to meet the requirements of this paragraph (c), then the operator must) meet the requirements of this paragraph (c): (1) Ensure the person performing any maintenance, preventive maintenance, alterations, or inspections: (i) Uses the methods, techniques, and practices prescribed in the manufacturer's current maintenance manual or Instructions for Continued Airworthiness that are acceptable to the Administrator, or other methods, techniques, an"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:21:74",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 21,
+    "chunk_index": 74,
+    "text": "l or Instructions for Continued Airworthiness that are acceptable to the Administrator, or other methods, techniques, and practices acceptable to the Administrator; (ii) Has the knowledge, skill, and appropriate equipment to perform the work; (iii) Performs the maintenance, preventive maintenance, or alterations on the small unmanned aircraft in a manner using the methods, techniques, and practices prescribed in the manufacturer's current maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods, techniques, and practices acceptable to the Administrator; (iv) Inspects the small unmanned aircraft in accordance with the manufacturer's instructions or other instructions acceptable to the Administrator; and (v) Performs the maintenance, preventive maintenance, or alterations using parts of such a quality that the condition of the aircraft w"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:21:75",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 21,
+    "chunk_index": 75,
+    "text": "e maintenance, preventive maintenance, or alterations using parts of such a quality that the condition of the aircraft will be at least equal to its original or properly altered condition. (2) Maintain all records of maintenance, preventive maintenance, and alterations performed on the aircraft and ensure the records are documented in a manner acceptable to the Administrator. The records must contain the description of the work performed, the date the work was completed, and the name of the person who performed the work. (3) Maintain all records containing\u2014 (i) The status of life-limited parts that are installed on, or part of, the small unmanned aircraft; 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.140(a)(1)(i) 14 CFR 107.140(c)(3)(i) (enhanced display) page 21 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:22:76",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "No person may operate a small unmanned aircraft over a human being located inside a moving vehicle unless the",
+    "page": 22,
+    "chunk_index": 76,
+    "text": "[Amdt. No. 107-8, 86 FR 4383, Jan. 15, 2021; 86 FR 13633, Mar. 10, 2021] \u00a7 107.145 Operations over moving vehicles. No person may operate a small unmanned aircraft over a human being located inside a moving vehicle unless the following conditions are met: \u00a7 107.150 Variable mode and variable configuration of small unmanned aircraft systems. A small unmanned aircraft system may be eligible for one or more categories of operation over human beings under this subpart, as long as a remote pilot in command cannot inadvertently switch between modes or configurations. (ii) The inspection status of the aircraft; and (iii) The status of applicable airworthiness directives including the method of compliance, the airworthiness directive number, and revision date. If the airworthiness directive involves recurring action, the record must contain the time and date of the next required action. (4) Reta"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:22:77",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "No person may operate a small unmanned aircraft over a human being located inside a moving vehicle unless the",
+    "page": 22,
+    "chunk_index": 77,
+    "text": "ess directive involves recurring action, the record must contain the time and date of the next required action. (4) Retain the records required under paragraphs (c)(2) and (3) of this section, as follows: (i) The records documenting maintenance, preventive maintenance, or alterations performed must be retained for 1 year from when the work is completed or until the maintenance is repeated or superseded by other work. (ii) The records documenting the status of life-limited parts, compliance with airworthiness directives, and inspection status of the small unmanned aircraft must be retained and transferred with the aircraft upon change in ownership. (5) Ensure all records under paragraphs (c)(2) and (3) of this section are available for inspection upon request from the Administrator or any authorized representative of the National Transportation Safety Board (NTSB). (d) Compliance with par"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:22:78",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "No person may operate a small unmanned aircraft over a human being located inside a moving vehicle unless the",
+    "page": 22,
+    "chunk_index": 78,
+    "text": "ministrator or any authorized representative of the National Transportation Safety Board (NTSB). (d) Compliance with parts 43 and 91 of this chapter. Compliance with part 43 and part 91, subpart E, of this chapter fulfills the requirements in paragraphs (b)(3) and (c) of this section. (a) The operation occurs in accordance with \u00a7 107.110 for Category 1 operations; \u00a7 107.115 for Category 2 operations; \u00a7 107.125 for Category 3 operations; or \u00a7 107.140 for Category 4 operations. (b) For an operation under Category 1, Category 2, or Category 3, the small unmanned aircraft, throughout the operation\u2014 (1) Must remain within or over a closed- or restricted-access site, and all human beings located inside a moving vehicle within the closed- or restricted-access site must be on notice that a small unmanned aircraft may fly over them; or (2) Must not maintain sustained flight over moving vehicles."
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:22:79",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": "No person may operate a small unmanned aircraft over a human being located inside a moving vehicle unless the",
+    "page": 22,
+    "chunk_index": 79,
+    "text": "otice that a small unmanned aircraft may fly over them; or (2) Must not maintain sustained flight over moving vehicles. (c) For a Category 4 operation, the small unmanned aircraft must\u2014 (1) Have an airworthiness certificate issued under part 21 of this chapter. (2) Be operated in accordance with the operating limitations specified in the approved Flight Manual or as otherwise specified by the Administrator. The operating limitations must not prohibit operations over human beings located inside moving vehicles. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.140(c)(3)(ii) 14 CFR 107.150 (enhanced display) page 22 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:23:80",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 23,
+    "chunk_index": 80,
+    "text": "\u00a7 107.155 Means of compliance. \u00a7 107.160 Declaration of compliance. (a) Establishment of compliance. To meet the requirements of \u00a7 107.120(a) for operations in Category 2, or the requirements of \u00a7 107.130(a) for operations in Category 3, the means of compliance must consist of test, analysis, or inspection. (b) Required information. An applicant requesting FAA acceptance of a means of compliance must submit the following information to the FAA in a manner specified by the Administrator: (1) Procedures. Detailed description of the means of compliance, including applicable test, analysis, or inspection procedures to demonstrate how the small unmanned aircraft meets the requirements of \u00a7 107.120(a) for operations in Category 2 or the requirements of \u00a7 107.130(a) for operations in Category 3. The description should include conditions, environments, and methods, as applicable. (2) Compliance"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:23:81",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 23,
+    "chunk_index": 81,
+    "text": "ions in Category 3. The description should include conditions, environments, and methods, as applicable. (2) Compliance explanation. Explanation of how application of the means of compliance fulfills the requirements of \u00a7 107.120(a) for operations in Category 2 or the requirements of \u00a7 107.130(a) for operations in Category 3. (c) FAA acceptance. If the FAA determines the applicant has demonstrated compliance with paragraphs (a) and (b) of this section, it will notify the applicant that it has accepted the means of compliance. (d) Rescission. (1) A means of compliance is subject to ongoing review by the Administrator. The Administrator may rescind its acceptance of a means of compliance if the Administrator determines that a means of compliance does not meet any or all of the requirements of this subpart. (2) The Administrator will publish a notice of rescission in the FEDERAL REGISTER. ("
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:23:82",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 23,
+    "chunk_index": 82,
+    "text": "f the requirements of this subpart. (2) The Administrator will publish a notice of rescission in the FEDERAL REGISTER. (e) Inapplicability of part 13, subpart D, of this chapter. Part 13, subpart D, of this chapter does not apply to the procedures of paragraph (a) of this section. (a) Required information. In order for an applicant to declare a small unmanned aircraft is compliant with the requirements of this subpart for Category 2 or Category 3 operations, an applicant must submit a declaration of compliance for acceptance by the FAA, in a manner specified by the Administrator, that includes the following information: (1) Applicant's name; (2) Applicant's physical address; (3) Applicant's email address; (4) The small unmanned aircraft make and model name, and series, if applicable; (5) The small unmanned aircraft serial number or range of serial numbers that are the subject of the decl"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:23:83",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 23,
+    "chunk_index": 83,
+    "text": "if applicable; (5) The small unmanned aircraft serial number or range of serial numbers that are the subject of the declaration of compliance; (6) Whether the declaration of compliance is an initial declaration or an amended declaration; (7) If the declaration of compliance is an amended declaration, the reason for the re-submittal; (8) The accepted means of compliance the applicant used to fulfill requirements of \u00a7 107.120(a) or \u00a7 107.130(a) or both; 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.155 14 CFR 107.160(a)(8) (enhanced display) page 23 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:24:84",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 24,
+    "chunk_index": 84,
+    "text": "(9) A declaration that the applicant\u2014 (i) Has demonstrated that the small unmanned aircraft, or specific configurations of that aircraft, satisfies \u00a7 107.120(a) or \u00a7 107.130(a) or both, through the accepted means of compliance identified in paragraph (a)(8) of this section; (ii) Has verified that the unmanned aircraft does not contain any safety defects; (iii) Has satisfied \u00a7 107.120(b)(3) or \u00a7 107.130(b)(3), or both; and (iv) Will, upon request, allow the Administrator to inspect its facilities, technical data, and any manufactured small unmanned aircraft and witness any tests necessary to determine compliance with this subpart; and (10) Other information as required by the Administrator. (b) FAA acceptance. If the FAA determines the applicant has demonstrated compliance with the requirements of this subpart, it will notify the applicant that it has accepted the declaration of complianc"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:24:85",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 24,
+    "chunk_index": 85,
+    "text": "ce with the requirements of this subpart, it will notify the applicant that it has accepted the declaration of compliance. (c) Notification of a safety issue. Prior to initiating rescission proceedings pursuant to paragraphs (d)(1) through (3) of this section, the FAA will notify the applicant if a safety issue has been identified for the declaration of compliance. (d) Rescission. (1) No person may operate a small unmanned aircraft identified on a declaration of compliance that the FAA has rescinded pursuant to this subpart while that declaration of compliance is rescinded. (2) The FAA may rescind a declaration of compliance if any of the following conditions occur: (i) A small unmanned aircraft for which a declaration of compliance was accepted no longer complies with \u00a7 107.120(a) or \u00a7 107.130(a); (ii) The FAA finds a declaration of compliance is in violation of \u00a7 107.5(a); or (iii) The"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:24:86",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 24,
+    "chunk_index": 86,
+    "text": "\u00a7 107.120(a) or \u00a7 107.130(a); (ii) The FAA finds a declaration of compliance is in violation of \u00a7 107.5(a); or (iii) The Administrator determines an emergency exists related to safety in accordance with the authority in 49 U.S.C. 46105. (3) If a safety issue identified under paragraph (c) of this section has not been resolved, the FAA may rescind the declaration of compliance as follows: (i) The FAA will issue a notice proposing to rescind the declaration of compliance. The notice will set forth the Agency's basis for the proposed rescission and provide the holder of the declaration of compliance with 30 calendar days from the date of issuance of the proposed notice to submit evidentiary information to refute the proposed notice. (ii) The holder of the declaration of compliance must submit information demonstrating how the small unmanned aircraft meets the requirements of this subpart wi"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:24:87",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 24,
+    "chunk_index": 87,
+    "text": "mpliance must submit information demonstrating how the small unmanned aircraft meets the requirements of this subpart within 30 calendar days from the date of issuance of the proposed notice. (iii) If the FAA does not receive the information required by paragraph (d)(3)(ii) of this section within 30 calendar days from the date of the issuance of the proposed notice, the FAA will issue a notice rescinding the declaration of compliance. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.160(a)(9) 14 CFR 107.160(d)(3)(iii) (enhanced display) page 24 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:25:88",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 25,
+    "chunk_index": 88,
+    "text": "\u00a7 107.165 Record retention. Subpart E\u2014Waivers (4) If the Administrator determines that an emergency exists in accordance with paragraph (d)(2)(iii) of this section, the FAA will exercise its authority under 49 U.S.C. 46105(c) to issue an order rescinding a declaration of compliance without initiating the process in paragraph (d)(3) of this section. (e) Petition to reconsider the rescission of a declaration of compliance. A person subject to an order of rescission under paragraph (d)(3) of this section may petition the FAA to reconsider the rescission of a declaration of compliance by submitting a request to the FAA in a manner specified by the Administrator within 60 days of the date of issuance of the rescission. (1) A petition to reconsider the rescission of a declaration of compliance must demonstrate at least one of the following: (i) A material fact that was not present in the origi"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:25:89",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 25,
+    "chunk_index": 89,
+    "text": "tion of compliance must demonstrate at least one of the following: (i) A material fact that was not present in the original response to the notification of the safety issue and an explanation for why it was not present in the original response; (ii) The FAA made a material factual error in the decision to rescind the declaration of compliance; or (iii) The FAA did not correctly interpret a law, regulation, or precedent. (2) Upon consideration of the information submitted under paragraph (e)(1) of this section, the FAA will issue a notice either affirming the rescission or withdrawing the rescission. (f) Inapplicability of part 13, subpart D, of this chapter. Part 13, subpart D, of this chapter does not apply to the procedures of paragraphs (d) and (e) of this section. (a) A person who submits a declaration of compliance under this subpart must retain and make available to the Administrat"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:25:90",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 25,
+    "chunk_index": 90,
+    "text": "a) A person who submits a declaration of compliance under this subpart must retain and make available to the Administrator, upon request, the information described in paragraph (a)(1) of this section for the period of time described in paragraph (a)(2) of this section. (1) All supporting information used to demonstrate the small unmanned aircraft meets the requirements of \u00a7\u00a7 107.120(a), for operations in Category 2, and 107.130(a), for operations in Category 3. (2) The following time periods apply: (i) If the person who submits a declaration of compliance produces a small unmanned aircraft, that person must retain the information described in paragraph (a)(1) of this section for two years after the cessation of production of the small unmanned aircraft system for which the person declared compliance. (ii) If the person who submits a declaration of compliance designs or modifies a small u"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:25:91",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 25,
+    "chunk_index": 91,
+    "text": "the person declared compliance. (ii) If the person who submits a declaration of compliance designs or modifies a small unmanned aircraft, that person must retain the information described in paragraph (a)(1) of this section for two years after the person submitted the declaration of compliance. (b) A person who submits a means of compliance under this subpart must retain and make available to the Administrator, upon request, and for as long as the means of compliance remains accepted, the detailed description of the means of compliance and justification showing how the means of compliance meets the requirements of \u00a7\u00a7 107.120(a), for operations in Category 2, and 107.130(a), for operations in Category 3. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.160(d)(4) 14 CFR 107.165(b) (enhanced display) page 25 of 26"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:26:92",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 26,
+    "chunk_index": 92,
+    "text": "\u00a7 107.200 Waiver policy and requirements. \u00a7 107.205 List of regulations subject to waiver. A certificate of waiver issued pursuant to \u00a7 107.200 may authorize a deviation from the following regulations of this part: [Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Amdt. No. 107-8, 86 FR 4387, Jan. 15, 2021] (a) The Administrator may issue a certificate of waiver authorizing a deviation from any regulation specified in \u00a7 107.205 if the Administrator finds that a proposed small UAS operation can safely be conducted under the terms of that certificate of waiver. (b) A request for a certificate of waiver must contain a complete description of the proposed operation and justification that establishes that the operation can safely be conducted under the terms of a certificate of waiver. (c) The Administrator may prescribe additional limitations that the Administrato"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:26:93",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 26,
+    "chunk_index": 93,
+    "text": "r the terms of a certificate of waiver. (c) The Administrator may prescribe additional limitations that the Administrator considers necessary. (d) A person who receives a certificate of waiver issued under this section: (1) May deviate from the regulations of this part to the extent specified in the certificate of waiver; and (2) Must comply with any conditions or limitations that are specified in the certificate of waiver. (a) Section 107.25\u2014Operation from a moving vehicle or aircraft. However, no waiver of this provision will be issued to allow the carriage of property of another by aircraft for compensation or hire. (b) Section 107.29(a)(2) and (b)\u2014Anti-collision light required for operations at night and during periods of civil twilight. (c) Section 107.31\u2014Visual line of sight aircraft operation. However, no waiver of this provision will be issued to allow the carriage of property of"
+  },
+  {
+    "chunk_id": "14 CFR Part 107 (up to date as of 12-30-2024).pdf:26:94",
+    "document": "14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "source_path": "C:\\Users\\17372\\Documents\\UAV-Policy_Agent\\uavguard-policy-agent\\data\\policy_docs\\14 CFR Part 107 (up to date as of 12-30-2024).pdf",
+    "section": null,
+    "page": 26,
+    "chunk_index": 94,
+    "text": "ne of sight aircraft operation. However, no waiver of this provision will be issued to allow the carriage of property of another by aircraft for compensation or hire. (d) Section 107.33\u2014Visual observer. (e) Section 107.35\u2014Operation of multiple small unmanned aircraft systems. (f) Section 107.37(a)\u2014Yielding the right of way. (g) Section 107.39\u2014Operation over people. (h) Section 107.41\u2014Operation in certain airspace. (i) Section 107.51\u2014Operating limitations for small unmanned aircraft. (j) Section 107.145\u2014Operations over moving vehicles. 14 CFR Part 107 (up to date as of 12/30/2024) Small Unmanned Aircraft Systems 14 CFR 107.200 14 CFR 107.205(j) (enhanced display) page 26 of 26"
+  }
+]

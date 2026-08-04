@@ -1,0 +1,17 @@
+# Sample Research Night Operations Policy
+
+## Night Operations
+Night operations are permitted for research missions only when Remote ID is active, visual line of sight is maintained, and the operator provides pilot certification evidence.
+
+## Controlled Airspace
+Operations in controlled airspace require documented authorization before flight.
+
+## Altitude
+Flights must not exceed 400 feet above ground level unless a specific waiver is documented.
+
+## Operations Over People
+Flights must not occur directly over uninvolved people without an applicable waiver.
+
+## Local Property Restrictions
+University property flights require local site approval before takeoff.
+

@@ -3,29 +3,54 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "uavguard"
+name = "uavguard-policy-agent"
 version = "0.1.0"
-description = "Modular multi-agent drone flight compliance and simulation framework."
+description = "Standalone UAVGuard Policy Agent implemented as a PDP-style drone flight authorization service."
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
-  "chromadb>=0.5.0",
-  "fastapi>=0.115.0",
-  "httpx>=0.27.0",
-  "numpy>=1.26.0",
-  "pydantic>=2.7.0",
-  "pypdf>=5.0.0",
-  "uvicorn>=0.30.0",
-  "rapidfuzz>=3.9.0",
-  "geopy>=2.4.0",
-  "matplotlib>=3.9.0",
+    "alembic>=1.18.0",
+    "fastapi>=0.115.0",
+    "httpx>=0.27.0",
+    "pydantic>=2.8.0",
+    "pydantic-settings>=2.14.0",
+    "pypdf>=4.3.0",
+    "python-dotenv>=1.0.1",
+    "sqlalchemy>=2.0.0",
+    "uvicorn>=0.30.0",
 ]
 
 [project.optional-dependencies]
+vector = [
+    "chromadb>=0.5.5",
+]
 dev = [
-  "pytest>=8.2.0",
+    "mypy>=2.3.0",
+    "pytest>=8.3.0",
+    "pytest-asyncio>=1.4.0",
+    "ruff>=0.15.0",
 ]
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["uavguard*"]
+include = ["policy_agent*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
+ignore = ["B008", "B019", "B905", "E402", "E501"]
+
+[tool.mypy]
+python_version = "3.12"
+warn_unused_configs = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+strict_optional = true
+check_untyped_defs = true
+exclude = ["^\\.python_packages/"]

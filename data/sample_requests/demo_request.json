@@ -1,0 +1,23 @@
+{
+  "subject_id": "test-user",
+  "subject_role": "student_researcher",
+  "drone_manufacturer": "DJI",
+  "drone_model": "Mini 4 Pro",
+  "drone_weight_grams": 249,
+  "operation_type": "research",
+  "origin_location": "Texas A&M University-Corpus Christi",
+  "destination_location": "Corpus Christi Bay",
+  "intended_flight_time": "night",
+  "altitude_ft": 350,
+  "speed_mph": 20,
+  "over_people": false,
+  "night_operation": true,
+  "controlled_airspace": null,
+  "visual_line_of_sight": null,
+  "remote_id_available": true,
+  "pilot_certification_provided": null,
+  "mission_purpose": "research data collection",
+  "local_restrictions_known": null,
+  "additional_context": "Demo request for UAVGuard Policy Agent."
+}
+

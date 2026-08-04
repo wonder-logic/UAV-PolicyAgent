@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+.python_packages/
+.python_packages_mypy/
+.tmp/
+.env
+*.sqlite3

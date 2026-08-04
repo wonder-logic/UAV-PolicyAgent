@@ -1,22 +1,26 @@
-"""Index FAA policy documents for UAVGuard."""
-
 from __future__ import annotations
 
-from pathlib import Path
+import json
 import sys
+from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-if str(ROOT) not in sys.path:
-    sys.path.insert(0, str(ROOT))
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
-from uavguard.config import get_settings
-from uavguard.policy.ingest_policies import ingest_policy_directory
+from policy_agent.config import build_settings
+from policy_agent.pap.policy_repository import PolicyRepository
+from policy_agent.utils.logging import configure_logging
 
 
 def main() -> None:
-    settings = get_settings()
-    count = ingest_policy_directory(settings.faa_docs_dir, settings)
-    print(f"Indexed {count} policy chunks from {settings.faa_docs_dir}")
+    settings = build_settings(PROJECT_ROOT)
+    settings.ensure_directories()
+    configure_logging(settings.log_level)
+
+    repository = PolicyRepository(settings)
+    summary = repository.ingest()
+    print(json.dumps(summary.model_dump(), indent=2))
 
 
 if __name__ == "__main__":

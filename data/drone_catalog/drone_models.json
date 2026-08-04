@@ -1,0 +1,41 @@
+[
+  {
+    "model_id": "dji-mini-4-pro",
+    "manufacturer": "DJI",
+    "model_name": "Mini 4 Pro",
+    "uas_class": "C0",
+    "weight_grams": 249,
+    "max_takeoff_weight_grams": 249,
+    "endurance_minutes": 34,
+    "night_lights": true,
+    "anti_collision_lights": true,
+    "has_camera": true,
+    "is_toy": false
+  },
+  {
+    "model_id": "dji-mavic-3-enterprise",
+    "manufacturer": "DJI",
+    "model_name": "Mavic 3 Enterprise",
+    "uas_class": "C2",
+    "weight_grams": 915,
+    "max_takeoff_weight_grams": 1050,
+    "endurance_minutes": 45,
+    "night_lights": true,
+    "anti_collision_lights": true,
+    "has_camera": true,
+    "is_toy": false
+  },
+  {
+    "model_id": "parrot-anafi-ai",
+    "manufacturer": "Parrot",
+    "model_name": "ANAFI Ai",
+    "uas_class": "C1",
+    "weight_grams": 898,
+    "max_takeoff_weight_grams": 898,
+    "endurance_minutes": 32,
+    "night_lights": true,
+    "anti_collision_lights": true,
+    "has_camera": true,
+    "is_toy": false
+  }
+]

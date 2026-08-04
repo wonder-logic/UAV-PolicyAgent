@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UAVGuard Policy Agent</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="brand-lockup">
+        <p class="eyebrow">Policy Chat Workspace</p>
+        <h1>UAVGuard Policy Agent</h1>
+        <p class="subtitle">
+          A chat-first policy assistant that only answers from extracted mission facts, drone catalog matches, and
+          deterministic policy evaluation.
+        </p>
+      </div>
+      <div class="header-meta">
+        <a class="header-link" href="/docs" target="_blank" rel="noreferrer">API Docs</a>
+        <span class="status-pill" id="serviceStatus" aria-live="polite">Connecting...</span>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      <section class="chat-experience">
+        <article class="chat-panel">
+          <div class="chat-panel__header">
+            <div>
+              <p class="kicker">Chat-first review</p>
+              <h2>Describe the mission the way you would ask ChatGPT</h2>
+              <p class="section-copy">
+                I will respond in natural language, keep track of only the details you actually give me, and stay
+                grounded in the built-in FAA policy baseline and any retrieved policy evidence.
+              </p>
+            </div>
+            <div class="chat-panel__actions">
+              <span class="decision-badge decision-badge--neutral" id="decisionBadge">Listening</span>
+              <button class="ghost-button" id="clearChatButton" type="button">Start over</button>
+            </div>
+          </div>
+
+          <div class="prompt-strip" aria-label="Example prompts">
+            <button class="prompt-chip" type="button" data-prompt>
+              We have a DJI Mini 4 Pro for a research mission near the TAMU-CC waterfront at 280 feet tonight.
+            </button>
+            <button class="prompt-chip" type="button" data-prompt>
+              Remote ID is active, the pilot has Part 107, and we will remain within visual line of sight.
+            </button>
+            <button class="prompt-chip" type="button" data-prompt>
+              Can I fly this mission if part of the route enters controlled airspace?
+            </button>
+          </div>
+
+          <div class="chat-feed" id="chatFeed" aria-live="polite"></div>
+
+          <form class="chat-form" id="chatForm">
+            <label class="chat-form__label" for="chatInput">Mission message</label>
+            <textarea
+              id="chatInput"
+              rows="4"
+              placeholder="Describe the drone, the mission, what you already know, or ask what is still missing."
+            ></textarea>
+            <div class="chat-form__actions">
+              <p class="chat-form__note">
+                This chat does not invent missing safety-critical facts. Type <strong>reset</strong> any time to clear
+                the current mission draft.
+              </p>
+              <button class="primary-button" type="submit">Send</button>
+            </div>
+          </form>
+
+          <div class="message-box" id="chatMessage" aria-live="polite"></div>
+
+          <section class="grounding-panel" id="groundingPanel" hidden>
+            <div class="grounding-panel__header">
+              <div>
+                <p class="kicker">Grounded review</p>
+                <h3>Score and policy references</h3>
+              </div>
+              <p class="grounding-panel__question" id="nextQuestion">
+                I will surface the next missing detail here when I need one.
+              </p>
+            </div>
+            <div class="artifact-menu" role="tablist" aria-label="Policy response views">
+              <button
+                class="artifact-tab artifact-tab--active"
+                id="artifactTabReview"
+                type="button"
+                data-artifact-tab="review"
+                aria-selected="true"
+              >
+                Policy Evaluation
+              </button>
+              <button class="artifact-tab" id="artifactTabGrid" type="button" data-artifact-tab="grid" aria-selected="false">
+                Simulator
+              </button>
+              <button
+                class="artifact-tab"
+                id="artifactTabKnowledge"
+                type="button"
+                data-artifact-tab="knowledge"
+                aria-selected="false"
+              >
+                Knowledge Base
+              </button>
+            </div>
+
+            <section class="artifact-panel" id="artifactPanelReview" data-artifact-panel="review">
+              <div class="score-strip">
+                <article class="score-card" id="statusCard">
+                  <span class="score-card__label">Policy status</span>
+                  <strong class="score-card__value" id="statusScore">Listening</strong>
+                  <span class="score-card__meta">Current grounded policy read</span>
+                </article>
+                <article class="score-card score-card--neutral" id="confidenceCard">
+                  <span class="score-card__label">Decision score</span>
+                  <strong class="score-card__value" id="confidenceScore">No score yet</strong>
+                  <span class="score-card__meta" id="confidenceDetail">Waiting for enough grounded facts</span>
+                </article>
+                <article class="score-card" id="policyHitCard">
+                  <span class="score-card__label">Policy hits</span>
+                  <strong class="score-card__value" id="policyHitCount">0</strong>
+                  <span class="score-card__meta">Matched rules or sections</span>
+                </article>
+                <article class="score-card" id="stageCard">
+                  <span class="score-card__label">Evaluation stage</span>
+                  <strong class="score-card__value" id="evaluationStage">PRELIMINARY</strong>
+                  <span class="score-card__meta" id="evaluationStageDetail">Collecting mission details</span>
+                </article>
+                <article class="score-card" id="knowledgeStatusCard">
+                  <span class="score-card__label">Knowledge source</span>
+                  <strong class="score-card__value" id="knowledgeSource">NONE</strong>
+                  <span class="score-card__meta" id="knowledgeAgentStatus">Knowledge Agent not called yet</span>
+                </article>
+              </div>
+              <p class="body-copy" id="decisionSummary">
+                This panel keeps the policy score, verified facts, and supporting references outside the chat reply.
+              </p>
+              <div class="fact-strip" id="verifiedFacts" aria-live="polite"></div>
+              <div class="grid-cell-list" id="ruleResultList"></div>
+              <div class="policy-reference-list" id="policyReferences"></div>
+              <div class="decision-grid" id="decisionSections"></div>
+            </section>
+
+            <section class="artifact-panel" id="artifactPanelGrid" data-artifact-panel="grid" hidden>
+              <p class="body-copy" id="simulatorNarrative">
+                This panel will show the simulator handoff package once the grounded mission review has enough verified context.
+              </p>
+              <div class="score-strip" id="gridSummaryCards"></div>
+              <div class="grid-cell-list" id="gridCellList"></div>
+              <pre class="json-viewer" id="gridJsonPreview">Simulator grid preview will appear here.</pre>
+            </section>
+
+            <section class="artifact-panel" id="artifactPanelKnowledge" data-artifact-panel="knowledge" hidden>
+              <p class="body-copy" id="knowledgeNarrative">
+                This panel will show the structured Knowledge Agent request and the validated response used by the policy evaluation.
+              </p>
+              <div class="score-strip" id="knowledgeSummaryCards"></div>
+              <h3>Request to Knowledge Agent</h3>
+              <pre class="json-viewer" id="knowledgeRequestPreview">Knowledge-agent request preview will appear here.</pre>
+              <h3>Validated Knowledge Response</h3>
+              <pre class="json-viewer" id="knowledgeResponsePreview">Knowledge-agent response will appear here.</pre>
+            </section>
+          </section>
+        </article>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      Research prototype developed within the Texas A&amp;M University-Corpus Christi academic environment. Not an
+      official FAA authorization system.
+    </footer>
+
+    <script type="module" src="/static/app.mjs"></script>
+  </body>
+</html>
