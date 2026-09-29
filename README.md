@@ -14,6 +14,7 @@ Clone the repository from GitHub and move into the project directory. Replace `<
 ```bash
 git clone <repository-url>
 cd UAV-PolicyAgent
+cd policy-agent
 ```
 
 ### Windows PowerShell
