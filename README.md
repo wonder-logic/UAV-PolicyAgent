@@ -57,7 +57,7 @@ When the server starts, keep that terminal open and visit:
 
 The FastAPI server serves the frontend, so no separate frontend server is required. Local development uses mock integrations by default and does not require API keys.
 
-## Run Tests
+### Run Tests
 
 With the virtual environment activated, run the backend tests.
 
@@ -81,28 +81,35 @@ node --test frontend-tests/app.test.mjs
 
 Stop the running server with `Ctrl+C`.
 
-## Run the Knowledge Agent
+## Knowledge Agent
 
 The `knowledge-agent` folder is a separate Streamlit application. It reads the
 mission request from `ai_request.json`, collects drone, location, weather, and
 terrain information, and writes result files such as `mission_context.json`
 and `flight_feasibility.json`.
 
-### Knowledge Agent prerequisites
+### Prerequisites
 
 - Python 3.12 or later
 - An Ollama installation with the `llama3.2` model
 - Internet access for geocoding, weather, map, and manufacturer lookups
 - A valid Geoapify API key in `knowledge-agent/config.py`
 
-Install the Python dependencies from the repository root. On Windows, use the
-virtual environment created for the policy agent:
+Run these commands from the repository root. On Windows, use the virtual
+environment created for the policy agent:
 
 ```powershell
 .\policy-agent\.venv\Scripts\Activate.ps1
+cd knowledge-agent
 py -m pip install streamlit requests geopy timezonefinder beautifulsoup4 ddgs ollama
 ollama pull llama3.2
-cd knowledge-agent
+```
+
+If you are currently inside `policy-agent`, return to the repository root first,
+then run the setup commands above:
+
+```powershell
+cd ..
 ```
 
 On macOS or Linux:
@@ -159,7 +166,7 @@ Add those files before running the application. The JSON files already present
 in the folder are input, cache, or generated result files; they are not Python
 programs and should not be executed individually.
 
-## Run the Simulation Agent
+## Simulation Agent
 
 The `simulation-agent` folder contains the grid/path planner and the optional
 Gazebo and ArduPilot SITL flight simulation. Run these commands from the
@@ -169,6 +176,9 @@ repository root after activating the Python virtual environment:
 cd simulation-agent
 python -m pip install networkx mavsdk matplotlib numpy pymavlink
 ```
+
+If you are currently inside `policy-agent`, run `cd ..` first to return to the
+repository root.
 
 ### Run the planner without Gazebo
 
