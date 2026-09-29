@@ -1,0 +1,79 @@
+{
+    "Mini 4 Pro": {
+        "name": "Mini 4 Pro",
+        "uas_class": "C0",
+        "weight_in_grams": "249",
+        "max_takeoff_in_grams": "249",
+        "endurance_in_mins": "34",
+        "night_light": null,
+        "anti_collision": false,
+        "has_camera": true,
+        "maximum_operating_altitude_ft": 400,
+        "manufacturer": "DJI"
+    },
+    "DJI Air 3s": {
+        "name": "Air 3S",
+        "uas_class": "C1",
+        "weight_in_grams": "724",
+        "max_takeoff_in_grams": "724",
+        "endurance_in_mins": "45",
+        "night_light": null,
+        "anti_collision": false,
+        "has_camera": null,
+        "maximum_operating_altitude_ft": 400,
+        "manufacturer": "DJI",
+        "note": "Closest match used: air 3s"
+    },
+    "DJI Air  3s": {
+        "name": "Air 3S",
+        "uas_class": "C1",
+        "weight_in_grams": "724",
+        "max_takeoff_in_grams": "724",
+        "endurance_in_mins": "45",
+        "night_light": null,
+        "anti_collision": false,
+        "has_camera": null,
+        "maximum_operating_altitude_ft": 400,
+        "manufacturer": "DJI",
+        "note": "Closest match used: air 3s"
+    },
+    "DJI AIr 3s": {
+        "name": "Air 3S",
+        "uas_class": "C1",
+        "weight_in_grams": "724",
+        "max_takeoff_in_grams": "724",
+        "endurance_in_mins": "45",
+        "night_light": null,
+        "anti_collision": false,
+        "has_camera": null,
+        "maximum_operating_altitude_ft": 400,
+        "manufacturer": "DJI",
+        "note": "Closest match used: air 3s"
+    },
+    "DJ Air 3s": {
+        "name": "Air 3S",
+        "uas_class": "C1",
+        "weight_in_grams": "724",
+        "max_takeoff_in_grams": "724",
+        "endurance_in_mins": "45",
+        "night_light": null,
+        "anti_collision": false,
+        "has_camera": null,
+        "maximum_operating_altitude_ft": 400,
+        "manufacturer": "DJI",
+        "note": "Closest match used: air 3s"
+    },
+    "DJI Air 3S": {
+        "name": "Air 3S",
+        "uas_class": "C1",
+        "weight_in_grams": "724",
+        "max_takeoff_in_grams": "724",
+        "endurance_in_mins": "45",
+        "night_light": null,
+        "anti_collision": false,
+        "has_camera": null,
+        "maximum_operating_altitude_ft": 400,
+        "manufacturer": "DJI",
+        "note": "Closest match used: air 3s"
+    }
+}
